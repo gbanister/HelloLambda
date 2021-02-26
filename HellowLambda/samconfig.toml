@@ -2,9 +2,9 @@ version = 0.1
 [default]
 [default.deploy]
 [default.deploy.parameters]
-stack_name = "HellowLambda-dev"
+stack_name = "HelloLambda-dev"
 s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-12ss8v9kxng5r"
-s3_prefix = "HellowLambda-dev"
+s3_prefix = "HelloLambda-dev"
 region = "us-west-2"
 confirm_changeset = true
 capabilities = "CAPABILITY_IAM"
