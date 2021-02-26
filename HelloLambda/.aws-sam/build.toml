@@ -5,6 +5,7 @@
 codeuri = "./src/HelloWorld/"
 runtime = "dotnetcore3.1"
 source_md5 = ""
+packagetype = "Zip"
 functions = ["HelloWorldFunction"]
 
 [layer_build_definitions]
